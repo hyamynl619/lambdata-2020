@@ -1,0 +1,6 @@
+README.md
+setup.py
+s2t2_lambdata_1.egg-info/PKG-INFO
+s2t2_lambdata_1.egg-info/SOURCES.txt
+s2t2_lambdata_1.egg-info/dependency_links.txt
+s2t2_lambdata_1.egg-info/top_level.txt
