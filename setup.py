@@ -15,5 +15,5 @@ setup(
     license="MIT",
     url="https://github.com/hyamynl619/lambdata-2020.git", 
     keywords="lambda school",
-    packages=find_packages() # ["my_lambda"]
+    packages=find_packages() # ["my_lambdata"]
 )
