@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="s2t2-lambdata-1",
+    name="s2t2-lambdata-hyamynl6196",
     version="0.1",
     author="MJ Rossetti",
     author_email="datacreativellc@gmail.com",
