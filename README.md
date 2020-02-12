@@ -9,4 +9,4 @@ TODO
 
 Usage instructions:
 
-TODO
+Make your own virtual pets
